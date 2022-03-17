@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @abhishekshyp
-- 👀 I’m interested in Data Analysis, Data Science, Machine Learning and Psychology
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 📫 You can reach me at https://www.abhishekshyp.com/
+- ❤️ I'm a Web Developer, Designer, Programmer, and a Digital Marketer
+- 👀 I’m also interested in Data Analysis, Data Science, Machine Learning and Human Psychology
+- 📚 Some of my habits are reading, fitness, and learning new things
+- 🔗 You can know more about me at https://www.abhishekshyp.com/
 
 <!---
 abhishekshyp/abhishekshyp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
