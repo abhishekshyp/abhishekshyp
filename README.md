@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekshyp
 - ❤️ I'm a Web Developer, Designer, Programmer, and a Digital Marketer
-- 👀 I’m also interested in Data Analysis, Data Science, Machine Learning and Human Psychology
+- 👀 I’m also interested in Graphic Designing and Data Analysis
 - 📚 Some of my habits are reading, fitness, and learning new things
 - 🔗 You can know more about me at https://www.abhishekshyp.com/
 
